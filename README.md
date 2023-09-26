@@ -22,7 +22,7 @@ QR frontend challenge from Frontend Mentor
 ### Links
 
 -   Solution URL: [Solution](https://github.com/NataJenkins/frontend-mentor-qr-challege)
--   Live Site URL: [live site URL here](https://65121ce19c76fd0971dcfa47--genuine-caramel-b036ba.netlify.app)
+-   Live Site URL: [live site URL here](https://creative-conkies-ba0240.netlify.app)
 
 ### Built with
 
