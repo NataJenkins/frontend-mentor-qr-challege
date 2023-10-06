@@ -3,7 +3,7 @@ import "./style.scss";
 
 function App() {
     return (
-        <div className="main-container">
+        <main className="main-container">
             <div className="card">
                 <img src={qr} alt="logo" />
                 <div className="text">
@@ -14,7 +14,7 @@ function App() {
                     </p>
                 </div>
             </div>
-        </div>
+        </main>
     );
 }
 
